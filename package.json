@@ -1,0 +1,16 @@
+{
+  "name": "poa",
+  "version": "1.0.0",
+  "main": "auto.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.7.23",
+    "file-system": "^1.2.9",
+    "readline-sync": "^1.4.10"
+  },
+  "description": ""
+}

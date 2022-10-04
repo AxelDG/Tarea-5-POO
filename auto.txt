@@ -1,0 +1,1 @@
+Toyota,Corolla,2009,Gris;Ford,Focus,2014,Gris;Honda,Civic,2010,Blanco;Chevrolet,Onix,2021,Rojo
